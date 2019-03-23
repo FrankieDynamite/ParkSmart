@@ -91,7 +91,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Arial Fett', 'Arial Standard', 'Arial';
+  font-family:'Arial Bold', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:20px;
@@ -104,7 +104,7 @@
   top:141px;
   width:102px;
   height:23px;
-  font-family:'Arial Fett', 'Arial Standard', 'Arial';
+  font-family:'Arial Bold', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:20px;
@@ -115,7 +115,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:102px;
+  width:100px;
   white-space:nowrap;
 }
 #u98 {
@@ -227,5 +227,40 @@
   top:0px;
   width:0px;
   visibility:hidden;
+  word-wrap:break-word;
+}
+#u103_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:244px;
+  height:40px;
+  background:inherit;
+  background-color:rgba(255, 222, 89, 1);
+  border:none;
+  border-radius:5px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:18px;
+  color:#1E1E1E;
+}
+#u103 {
+  border-width:0px;
+  position:absolute;
+  left:312px;
+  top:583px;
+  width:244px;
+  height:40px;
+  font-size:18px;
+  color:#1E1E1E;
+}
+#u103_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:9px;
+  width:240px;
   word-wrap:break-word;
 }

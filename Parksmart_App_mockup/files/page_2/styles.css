@@ -126,7 +126,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Arial Fett', 'Arial Standard', 'Arial';
+  font-family:'Arial Bold', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:20px;
@@ -139,7 +139,7 @@
   top:141px;
   width:102px;
   height:23px;
-  font-family:'Arial Fett', 'Arial Standard', 'Arial';
+  font-family:'Arial Bold', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:20px;
@@ -150,7 +150,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:102px;
+  width:100px;
   white-space:nowrap;
 }
 #u43 {
