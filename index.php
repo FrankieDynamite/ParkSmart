@@ -1,0 +1,1 @@
+<?php header('Location: /Parksmart_App_mockup/index.html'); ?>
